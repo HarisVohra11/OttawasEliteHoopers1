@@ -1,0 +1,9 @@
+body{
+    background-color:red;
+    background-image: url("img/submission.png");
+    text-align:center;
+}
+
+.center{
+    margin:auto;
+}
